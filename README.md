@@ -1,6 +1,6 @@
 ﻿# NovaGo Delivery
 
-Sistema web de gestion de minimarket con delivery propio.
+Sistema web de gestión de minimarket con delivery propio y pagos digitales.
 
 ## Integrantes
 - Conislla Lavado Cesar Jesus - U23264049
