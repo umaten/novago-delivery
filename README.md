@@ -2,7 +2,7 @@
 
 Sistema web de gestión de minimarket con delivery propio y pagos digitales.
 
-## Integrantes
+ Integrantes
 - Conislla Lavado Cesar Jesus - U23264049
 - Ruben Walter Vivas Jiménez - U18209770
 
